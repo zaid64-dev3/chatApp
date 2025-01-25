@@ -1,0 +1,5 @@
+message model
+
+sender iD
+recevier iD
+message""
